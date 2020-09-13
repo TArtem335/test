@@ -1,1 +1,1 @@
-Blabla in master branch
+Blabla in master branch (after conflict solution)
